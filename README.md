@@ -8,9 +8,7 @@ Full Stack Developer | MERN Stack | Next.js | Java Spring Boot
 
 <div align="center">
 
-<img 
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=900&lines=Full+Stack+Developer+from+India+🇮🇳;MERN+Stack+%7C+Next.js+%7C+Spring+Boot;Building+Scalable+and+Modern+Web+Applications;Passionate+About+Backend+Development+and+UI%2FUX;Always+Learning+New+Technologies+🚀" 
-alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Pranav+Gadewar;Full+Stack+Developer+from+India;MERN+Stack+%7C+Next.js+%7C+Spring+Boot;Building+Scalable+Web+Applications;Passionate+About+Backend+Development;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
 
 </div>
 

@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Pranav Gadewar</h1>
 
 <h3 align="center">
-Full Stack Developer | MERN Stack | Next.js | Java Spring Boot
+Full Stack Developer | MERN Stack | Next.js 
 </h3>
 
 <div align="center">
